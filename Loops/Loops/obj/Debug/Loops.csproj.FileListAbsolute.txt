@@ -1,0 +1,6 @@
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Loops\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Loops\Loops\obj\Debug\Loops.pdb
