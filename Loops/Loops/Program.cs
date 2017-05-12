@@ -10,10 +10,11 @@ namespace Loops
     {
         static void Main(string[] args)
         {
+            // Remove the comment slashes to call whichever of the methods you wish to run for Exercises 1-5.
             // Ex1();
             // Ex2();
             // Ex3();
-            Ex4();
+           // Ex4();
           //  Ex5();
         }
 
