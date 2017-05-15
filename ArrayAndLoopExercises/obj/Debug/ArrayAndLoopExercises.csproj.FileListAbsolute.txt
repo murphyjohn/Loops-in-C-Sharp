@@ -1,0 +1,5 @@
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Loops\ArrayAndLoopExercises\bin\Debug\ArrayAndLoopExercises.exe.config
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Loops\ArrayAndLoopExercises\bin\Debug\ArrayAndLoopExercises.exe
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Loops\ArrayAndLoopExercises\bin\Debug\ArrayAndLoopExercises.pdb
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Loops\ArrayAndLoopExercises\obj\Debug\ArrayAndLoopExercises.exe
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Loops\ArrayAndLoopExercises\obj\Debug\ArrayAndLoopExercises.pdb
